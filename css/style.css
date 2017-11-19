@@ -1,0 +1,71 @@
+body{background-color: white;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: bold;
+	
+}
+
+
+header{
+	background: url('../img/fuji.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 96vh;
+}
+
+nav{
+	background-color: #4640FF;
+}
+.border1{
+	border-style: groove;
+	border-width: thick;
+}
+.title-color{
+	color: #F0EF48;
+}
+.margin-title{
+	margin-top: 40vh
+}
+.color{
+	background-color: #A33AE8
+}
+.bold{
+	font-weight: bold;
+}
+.blue-html{
+	width: 25%;
+	background-color: blue;
+
+}
+.red-css{
+	width: 50%;
+	background-color: red;
+}
+.grey {
+	background-color: grey;
+	font-style: italic;
+	color:white;
+}
+.blue{
+	background-color: #343638;
+	color: white;
+}
+.image_width{
+	width:100%;
+}
+
+.margin-top{
+	margin-top: 50px;
+}
+
+.my-text-color{
+	color: black; 
+	font-style: bold
+}
+.white{
+	background:white;
+}
+.font {
+font-family: 'Anton', sans-serif;
+}
