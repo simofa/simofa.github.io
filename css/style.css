@@ -69,3 +69,7 @@ nav{
 .font {
 font-family: 'Anton', sans-serif;
 }
+
+iframe{
+	max-width: 95vw;
+}
