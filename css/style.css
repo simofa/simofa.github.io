@@ -1,0 +1,89 @@
+body{ background-color: white; /* #F0E853;*/
+	font-family: 'Anton', sans-serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Cabin', sans-serif;
+	
+	 
+}
+
+
+nav{font-size: 3vh;
+	font-weight:bold;
+}
+section{
+	background-color: #213330;
+}
+
+h2{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 7vh;
+	color: #5C8D84;
+}
+footer{background-color: black;
+}
+
+.font-size{
+	font-size: 2vh;
+}
+
+.page-heading{
+	text-decoration: #B5601C double underline;
+}
+
+.title-color{
+	color: #F0EF48;
+}
+.margin-heading{
+		margin-top: 70vh;
+}
+.bold{
+	font-weight: bold;
+}
+.size{
+	font-size: 3vh;
+}
+.background1{
+	background: url('../img/arco2.jpg') no-repeat center center fixed;
+ 	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
+
+.background2{
+	background: url('../img/chiesa1.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 90vh;
+}
+.expand{
+	height: 100vh;
+	width: 100vw;
+}
+.margin-top{
+	margin-top: 50px;
+}
+.margin-left{
+	margin-left: 20vw;
+}
+
+.white{
+	color: white;
+}
+
+.pic-width{
+	 max-width: 100%;
+    max-height: 100%;
+}
+.carousel-item {
+  height: 70vh;
+  min-height: 300px;
+    background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
